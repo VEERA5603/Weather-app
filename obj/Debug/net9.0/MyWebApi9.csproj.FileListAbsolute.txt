@@ -1,0 +1,72 @@
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\appsettings.json
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\MyWebApi9.staticwebassets.endpoints.json
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\MyWebApi9.exe
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\MyWebApi9.deps.json
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\MyWebApi9.runtimeconfig.json
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\MyWebApi9.dll
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\MyWebApi9.pdb
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.csproj.AssemblyReference.cache
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.AssemblyInfoInputs.cache
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.AssemblyInfo.cs
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.csproj.CoreCompileInputs.cache
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\scopedcss\bundle\MyWebApi9.styles.css
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.MyWebApi9.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.MyWebApi9.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.build.MyWebApi9.props
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi9.props
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyWebApi9.props
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.csproj.Up2Date
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.dll
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\refint\MyWebApi9.dll
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.pdb
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\MyWebApi9.genruntimeconfig.cache
+C:\Users\VEERA\MyWebApi9\obj\Debug\net9.0\ref\MyWebApi9.dll
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VEERA\MyWebApi9\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\appsettings.Development.json
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\appsettings.json
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\MyWebApi9.staticwebassets.endpoints.json
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\MyWebApi9.exe
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\MyWebApi9.deps.json
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\MyWebApi9.runtimeconfig.json
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\MyWebApi9.dll
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\MyWebApi9.pdb
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\dotnet projects\MyWebApi9\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.csproj.AssemblyReference.cache
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.AssemblyInfoInputs.cache
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.AssemblyInfo.cs
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\scopedcss\bundle\MyWebApi9.styles.css
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.MyWebApi9.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.MyWebApi9.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.build.MyWebApi9.props
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi9.props
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyWebApi9.props
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.csproj.Up2Date
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.dll
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\refint\MyWebApi9.dll
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.pdb
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\MyWebApi9.genruntimeconfig.cache
+D:\Projects\dotnet projects\MyWebApi9\obj\Debug\net9.0\ref\MyWebApi9.dll
